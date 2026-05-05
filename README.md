@@ -115,11 +115,11 @@ More coming soon…
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaithanyaSureshkumar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaiSureshkumar217&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=ChaithanyaSureshkumar&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=ChaiSureshkumar217&theme=tokyonight&hide_border=false" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaithanyaSureshkumar&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaiSureshkumar217&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" />
 </p>
 
 ---
@@ -127,7 +127,7 @@ More coming soon…
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChaithanyaSureshkumar&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChaiSureshkumar217&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -155,7 +155,7 @@ More coming soon…
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
  
-  <a href="https://github.com/ChaithanyaSureshkumar">
+  <a href="https://github.com/ChaiSureshkumar217">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
